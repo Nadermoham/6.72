@@ -1,4 +1,4 @@
-body{color: white; background-image:url(PS4.PNG); background-attachment:fixed; background-size:100% 100%; background-repeat:no-repeat;}
+body{color: white; background-image:url(ps4.png); background-attachment:fixed; background-size:100% 100%; background-repeat:no-repeat;}
 img:hover {transform: scale(1.2); /* (100% zoom - Note: if the zoom is too large, it will go outside of the viewport) */}
 .center{display: block;margin-left: auto;margin-right: auto;}	
 #CacheProgress {
@@ -11,7 +11,7 @@ width:0%;height:100%;background-color:red;
 }
 .cacheUPDbg {transition:opacity 1000ms;
 position:fixed;left:0;right:0;top:0;bottom:0;max-width:100%;max-height:100%;margin:auto;	
-width:100%;height:100%;background-image:url(PS4.PNG);
+width:100%;height:100%;background-image:url(ps4,png);
 opacity:1;display:none;z-index:900;
 }
 .cacheUPD {
